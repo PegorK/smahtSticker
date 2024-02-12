@@ -64,6 +64,7 @@ With these responses I put together 6 bumper stickers for each view. Below is a 
 1)  [Install Openbox and configured it to run `main.py` on startup. Steps 3-9 here are helpful. No need for chromium.](https://desertbot.io/blog/raspberry-pi-4-touchscreen-kiosk-setup-64-bit-bullseye)
 1)  Install `adafruit_gps`, `geopy`, and `feh`
 1)  Connect GPS module to 5V, GND, and TX & RX pins of Pi.
+1)  You will need to host a hotspot off your phone that the Pi can connect to.
 1)  Should be ready to go! Reboot.
 
 ### Contact
