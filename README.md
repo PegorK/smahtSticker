@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="imgs/blank.png" alt="Cover Image" width="800px"/>
+  <img src="imgs/blank.png" alt="CoverImage" width="800px"/>
 </div>
+
 With the political division in the US becoming increasingly polarized and the tech industry turning just about everything "smart" and integrated with AI, I figured it was time to summon the smahtSticker! The smahtSticker is an AI powered "smart" bumper sticker designed to let you blend in to any part of town. It features a Raspberry Pi Zero paired with an ~8" LCD and GPS module to pinpoint your exact location while you're driving. With this data we turn to one of OpenAI's cutting edge AI models to accurately* predict the most likely political view of that area. The response is then used to display the appropriate bumper sticker to fit you, and your car, right in.
 <br /><br />
 <small><i>*Using zip codes to determine political preferences is not super accurate. There are many additional factors that should be analyzed for accurate predictions, but this is all fun.</i></small>
